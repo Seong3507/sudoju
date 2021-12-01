@@ -1,0 +1,19 @@
+[
+null,
+{"id":1,"expanded":true,"name":"월드맵","order":1,"parentId":0,"scrollX":982.8,"scrollY":732},
+{"id":2,"expanded":true,"name":"늅늅마을","order":2,"parentId":1,"scrollX":848,"scrollY":624},
+{"id":3,"expanded":true,"name":"여관","order":3,"parentId":2,"scrollX":648.8,"scrollY":362.4},
+{"id":4,"expanded":false,"name":"장비상점","order":5,"parentId":2,"scrollX":1216.5,"scrollY":691.5},
+{"id":5,"expanded":false,"name":"주인공집","order":6,"parentId":2,"scrollX":973.1999999999999,"scrollY":553.1999999999999},
+{"id":6,"expanded":false,"name":"던전","order":16,"parentId":1,"scrollX":655.2,"scrollY":591.2},
+{"id":7,"expanded":false,"name":"잡화상점","order":7,"parentId":2,"scrollX":0,"scrollY":0},
+{"id":8,"expanded":true,"name":"성문을열어라","order":8,"parentId":2,"scrollX":816,"scrollY":640},
+{"id":9,"expanded":true,"name":"성 내부","order":9,"parentId":8,"scrollX":655.2,"scrollY":544},
+{"id":10,"expanded":false,"name":"공터","order":12,"parentId":8,"scrollX":816,"scrollY":624},
+{"id":11,"expanded":true,"name":"지하 던전","order":10,"parentId":9,"scrollX":982.8,"scrollY":1257.6},
+{"id":12,"expanded":false,"name":"던전","order":11,"parentId":9,"scrollX":1280.3999999999999,"scrollY":830.4},
+{"id":13,"expanded":false,"name":"이상한 들판","order":15,"parentId":2,"scrollX":648.8,"scrollY":362.4},
+{"id":14,"expanded":false,"name":"지하감옥","order":4,"parentId":3,"scrollX":0,"scrollY":0},
+{"id":15,"expanded":true,"name":"숲","order":13,"parentId":8,"scrollX":973.1999999999999,"scrollY":543.6},
+{"id":16,"expanded":false,"name":"채석장","order":14,"parentId":15,"scrollX":832,"scrollY":624}
+]
